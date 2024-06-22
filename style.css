@@ -123,6 +123,10 @@ body {
     position: relative;
     z-index: 2;
 }
+
+.eleme:hover{
+    cursor:pointer;
+}
 #con1 p{
     font-size: 2vw;
     margin-top: 3vw;
